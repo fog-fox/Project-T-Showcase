@@ -1,10 +1,6 @@
-KR
+##NOTICE
 
-
-
-\# 안내
-
-
+#KR
 
 이 저장소는 원본 Unity 프로젝트의 포트폴리오 Showcase를 목적으로 제작되었습니다.
 
@@ -41,12 +37,8 @@ KR
 본 저장소의 목적은 프로젝트에서 직접 구현한 시스템의 구조, 코드 작성 방식 및 기술적 구현 내용을 포트폴리오 형태로 공개하는 것입니다.
 
 
-EN
 
-&#x20;
-# Notice
-
-
+##EN
 
 This repository is a portfolio showcase of the original Unity project.
 
